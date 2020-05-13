@@ -16,7 +16,7 @@ For this reason, video conferencing for businesses and families has exploded in 
 
 #### Point I for Google: Monopoly power
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_2.jpg)
+<img src="/assets/images/zvg_2.jpg" alt="Illustration">
 
 Monopolistic firms like Google are so big and powerful, they can forgo profits if it means growing market share. You can call it revenue maximization or predatory pricing depending on how legal it is.
 
@@ -30,7 +30,7 @@ All things considered, Google says it’s doing this to help families/businesses
 
 #### Point II for Google: Network effects
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_3.jpg)
+<img src="/assets/images/zvg_3.jpg" alt="Illustration">
 
 As more people join a network, the more useful it becomes for each user. Since the average value for each user goes up, more people join the network.
 
@@ -40,7 +40,7 @@ Google built NFX through Search (more users = better algorithms/better results =
 
 #### Point III for Google: Bundling
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_4.jpg)
+<img src="/assets/images/zvg_4.jpg" alt="Illustration">
 
 Slack is a cloud-based team collaboration software that was quickly gaining popularity among some of the biggest companies in the world — then Microsoft bundled Teams in for free with the rest of Office and is bleeding Slack dry.
 
@@ -50,7 +50,7 @@ Meet is bundled with Gmail, Calendar, Classroom, and the other G Suite services 
 
 #### Point I for Zoom: Brand equity
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_5.jpg)
+<img src="/assets/images/zvg_5.jpg" alt="Illustration">
 
 Zoom has seen explosive growth during this crisis, with over 300 million daily meeting participants this month and stock prices skyrocketing. Zoom has become synonymous with video conferencing, matched only by Cisco Webex.
 
@@ -60,7 +60,7 @@ We’ll have to see if Zoom’s early adoption wave will be strong enough to fen
 
 #### Point II for Zoom: Specialization
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_6.jpg)
+<img src="/assets/images/zvg_6.jpg" alt="Illustration">
 
 Google’s parent company is called Alphabet; maybe because the human alphabet is “one of humanity’s most important innovations”, or maybe because they’re building enough companies to have one named for each letter of the alphabet.
 
