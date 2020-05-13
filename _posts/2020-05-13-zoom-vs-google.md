@@ -4,7 +4,7 @@ title:  "Zoom vs. Google (aka Goliath) — Who Comes Out On Top?"
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/2.jpg
+image: assets/images/zvg_1.jpg
 ---
 
 When I was in kindergarten, I was hopelessly in love with a female classmate whose face I never actually saw (she wore a veil). I can confidently say that today, 14 years later, I am totally over her. 
@@ -14,6 +14,8 @@ My point? Faces are important for humans, and we need to see them so we can make
 For this reason, video conferencing for businesses and families has exploded in the past two months, with Zoom and its $38 billion valuation at the forefront.
 
 #### Point I for Google: Monopoly power
+
+![Created by Author](assets/images/zvg_2.jpg)
 
 Monopolistic firms like Google are so big and powerful, they can forgo profits if it means growing market share. You can call it revenue maximization or predatory pricing depending on how legal it is.
 
@@ -27,6 +29,8 @@ All things considered, Google says it’s doing this to help families/businesses
 
 #### Point II for Google: Network effects
 
+![Created by Author](assets/images/zvg_3.jpg)
+
 As more people join a network, the more useful it becomes for each user. Since the average value for each user goes up, more people join the network.
 
 That (simply put) is the network effect, and it’s a big part of why so many monopolies are digital today — the bigger they get, the better they get.
@@ -34,6 +38,8 @@ That (simply put) is the network effect, and it’s a big part of why so many mo
 Google built NFX through Search (more users = better algorithms/better results = more users) and AdSense, resulting in billions of Google service users. They can leverage their enormous userbase to onboard onto Meet. The best way to do this?
 
 #### Point III for Google: Bundling
+
+![Created by Author](assets/images/zvg_4.jpg)
 
 Slack is a cloud-based team collaboration software that was quickly gaining popularity among some of the biggest companies in the world — then Microsoft bundled Teams in for free with the rest of Office and is bleeding Slack dry.
 
@@ -43,6 +49,8 @@ Meet is bundled with Gmail, Calendar, Classroom, and the other G Suite services 
 
 #### Point I for Zoom: Brand equity
 
+![Created by Author](assets/images/zvg_5.jpg)
+
 Zoom has seen explosive growth during this crisis, with over 300 million daily meeting participants this month and stock prices skyrocketing. Zoom has become synonymous with video conferencing, matched only by Cisco Webex.
 
 The service is building strong brand awareness and is quickly coming to be seen as the default video conferencing platform. However, brand identity is not a very strong economic moat, and Google is king at efficiency.
@@ -50,6 +58,8 @@ The service is building strong brand awareness and is quickly coming to be seen 
 We’ll have to see if Zoom’s early adoption wave will be strong enough to fend off the Deathstar laser that is Google meet.
 
 #### Point II for Zoom: Specialization
+
+![Created by Author](assets/images/zvg_6.jpg)
 
 Google’s parent company is called Alphabet; maybe because the human alphabet is “one of humanity’s most important innovations”, or maybe because they’re building enough companies to have one named for each letter of the alphabet.
 
