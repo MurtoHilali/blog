@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Zoom vs. Google (aka Goliath) — Who Comes Out On Top?"
-subtitle: Google has thrown its hat in the video-conferencing ring by offering Meet for free until September
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
@@ -16,7 +15,7 @@ For this reason, video conferencing for businesses and families has exploded in 
 
 #### Point I for Google: Monopoly power
 
-<img src="/assets/images/zvg_2.jpg" alt="Illustration">
+![illustration]({{ site./blog }}/assets/images/vzg_2.jpg)
 
 Monopolistic firms like Google are so big and powerful, they can forgo profits if it means growing market share. You can call it revenue maximization or predatory pricing depending on how legal it is.
 
