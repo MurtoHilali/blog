@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Zoom vs. Google (aka Goliath) — Who Comes Out On Top?"
+subtitle: Google has thrown its hat in the video-conferencing ring by offering Meet for free until September
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
