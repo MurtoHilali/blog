@@ -15,7 +15,7 @@ For this reason, video conferencing for businesses and families has exploded in 
 
 #### Point I for Google: Monopoly power
 
-![Created by Author](https://github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_2.jpg)
+![Created by Author](https://raw.github.com/MurtoHilali/blog/blob/gh-pages/assets/images/zvg_2.jpg)
 
 Monopolistic firms like Google are so big and powerful, they can forgo profits if it means growing market share. You can call it revenue maximization or predatory pricing depending on how legal it is.
 
