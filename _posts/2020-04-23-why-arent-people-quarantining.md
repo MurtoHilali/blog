@@ -37,7 +37,9 @@ So why is it so hard for people to just stay home? (Obviously excluding essentia
 
 #### So logically, you should betray your entire community.
 
-<iframe src="https://giphy.com/embed/UAHZijO91QCl2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-office-finger-guns-gun-UAHZijO91QCl2">via GIPHY</a></p>
+<p align="center">
+  <iframe src="https://giphy.com/embed/UAHZijO91QCl2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-office-finger-guns-gun-UAHZijO91QCl2">via GIPHY</a>
+</p>
 
 **Game theory** looks at strategic interactions between rational people, and mathematically models what their interactions might look like. It’s used in fields like economics and computer science, just to name a few.
 
