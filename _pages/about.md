@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: 18 year-old work in progress/tech enthusiast/aspiring mad scientists.
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
