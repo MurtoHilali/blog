@@ -2,7 +2,7 @@
 layout: post
 title:  "Zoom vs. Google (aka Goliath) — Who Comes Out On Top?"
 author: Murto
-categories: [ Lifestyle ]
+categories: [ BYTE/SIZE ]
 tags: [ France ]
 image: assets/images/zvg_1.jpg
 ---
