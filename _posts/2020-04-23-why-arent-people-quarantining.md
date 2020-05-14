@@ -9,7 +9,7 @@ image: assets/images/qbackground.jpg
 
 If 2019 was a year of revolution, 2020 is the year of crisis. Luckily, there are still a few added sprinkles of revolution. Really, really, dumb revolution.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A sampling of the signs at the protest:<br><br>“I need a haircut.”<br><br>“F*ck it, mask off.”<br><br>“Walz is the virus.” <a href="https://t.co/kbYZXTgcmp">pic.twitter.com/kbYZXTgcmp</a></p>&mdash; Theo Keith (@TheoKeith) <a href="https://twitter.com/TheoKeith/status/1251198478384054273?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{: .center-image }
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A sampling of the signs at the protest:<br><br>“I need a haircut.”<br><br>“F*ck it, mask off.”<br><br>“Walz is the virus.” <a href="https://t.co/kbYZXTgcmp">pic.twitter.com/kbYZXTgcmp</a></p>&mdash; Theo Keith (@TheoKeith) <a href="https://twitter.com/TheoKeith/status/1251198478384054273?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Protests against social distancing measures have been popping up in Vancouver, Michigan, and Minnesota. That’s right — people who are upset that they’ve been drafted by the government to sit on their couch and WATCH NETFLIX ALL DAY.
 
