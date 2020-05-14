@@ -9,7 +9,6 @@ image: assets/images/qbackground.jpg
 
 If 2019 was a year of revolution, 2020 is the year of crisis. Luckily, there are still a few added sprinkles of revolution. Really, really, dumb revolution.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A sampling of the signs at the protest:<br><br>“I need a haircut.”<br><br>“F*ck it, mask off.”<br><br>“Walz is the virus.” <a href="https://t.co/kbYZXTgcmp">pic.twitter.com/kbYZXTgcmp</a></p>&mdash; Theo Keith (@TheoKeith) <a href="https://twitter.com/TheoKeith/status/1251198478384054273?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Protests against social distancing measures have been popping up in Vancouver, Michigan, and Minnesota. That’s right — people who are upset that they’ve been drafted by the government to sit on their couch and WATCH NETFLIX ALL DAY.
 
@@ -36,8 +35,6 @@ So why is it so hard for people to just stay home? (Obviously excluding essentia
 ### You got fake people showin’ fake love to you
 
 #### So logically, you should betray your entire community.
-
-<iframe src="https://giphy.com/embed/UAHZijO91QCl2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-office-finger-guns-gun-UAHZijO91QCl2">via GIPHY</a>
 
 **Game theory** looks at strategic interactions between rational people, and mathematically models what their interactions might look like. It’s used in fields like economics and computer science, just to name a few.
 
@@ -125,8 +122,6 @@ When socio-cultural psychologists compare different cultures, they use a set of 
 One of these dimensions is the power-distance index, or PDI. The PDI measures how willing the less-powerful people in a society are to accept rigid social hierarchies.
 
 Countries with a high PDI score (Russia, China, Ecuador) tend to accept uneven power distribution and demonstrate deference to elders and authorities. Countries with low PDI scores look like this:
-
-<div style="width:100%;height:0;padding-bottom:91%;position:relative;"><iframe src="https://giphy.com/embed/hWA1mARt9sh4eKKo89" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kiss-kiss-band-end-of-the-road-online-hWA1mARt9sh4eKKo89">via GIPHY</a></p>
 
 Just kidding.
 
