@@ -4,6 +4,7 @@ title: "Murto Hilali"
 description: "Hi! I'm Murto. Weekly thoughts on tech, business, and behaviours from an 18 y/o entrepreneur."
 logo: 'assets/images/PersonalLogo-2-transparent.png'
 favicon: 'assets/images/favicon-2.png'
+<link rel="shortcut icon" href="/assets/images/favicon-2.png">
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
