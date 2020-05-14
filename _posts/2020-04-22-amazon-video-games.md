@@ -74,7 +74,9 @@ Rundles generate revenue for other parts of the business — customers fall in l
 
 ![](https://www.mensjournal.com/wp-content/uploads/2019/11/JackRyan1.jpg?w=1200&h=1200&crop=1)
 
-> Rundles build loyalty and loyalty is profitable.
+Rundles build loyalty and loyalty is profitable.
+
+***
 
 With original content, cloud gaming, and gaming subscriptions probably coming to Prime soon, expect Amazon to dominate even more of the market and get one step closer to world domination.
 
