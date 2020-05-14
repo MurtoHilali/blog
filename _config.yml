@@ -5,6 +5,7 @@ description: "Hi! I'm Murto. Weekly thoughts on tech, business, and behaviours f
 logo: 'assets/images/PersonalLogo-2-transparent.png'
 favicon: 'assets/images/favicon-2.png'
 <link rel="shortcut icon" href="/assets/images/favicon-2.png">
+<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
