@@ -40,6 +40,7 @@ Companies will tie gaming subscriptions with cloud gaming: imagine you could acc
 #### Original content = differentiation & vertical integration
 
 People will tend to buy one subscription service over the other based on the original content each has to offer (Tiger King, anyone?)
+
 ![Joe Exotic with a tiger](https://static01.nyt.com/images/2020/03/31/arts/television/31xp-tigerking/31xp-tigerking-mediumSquareAt3X.jpg)
 
 More importantly, original content means you can vertically integrate, or control every part of the supply chain — that means production, distribution, etc.
@@ -79,6 +80,8 @@ Rundles build loyalty and loyalty is profitable.
 ***
 
 With original content, cloud gaming, and gaming subscriptions probably coming to Prime soon, expect Amazon to dominate even more of the market and get one step closer to world domination.
+
+***
 
 ![](https://miro.medium.com/max/700/1*LflA1flS60jGPSao6afLhw.png)
 
