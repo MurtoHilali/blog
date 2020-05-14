@@ -5,10 +5,8 @@
 $brown: #B59F62;
 $teal: #FECA00;
 $black: #111;
-$gray: #616E6C
 $primary: $teal;
 $dark:    $black;
-$sdark:	  $gray;
 $enable-rounded: false;
 
 @import "bootstrap/functions";
@@ -63,7 +61,7 @@ blockquote {
     font-style: bold;
     font-size: 40px;
     position:relative;
-    border-left:1px solid $sdark;
+    border-left:1px solid $dark;
     margin-left:30px;
     padding-left:15px;
     cite {
