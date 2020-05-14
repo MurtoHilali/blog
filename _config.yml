@@ -7,21 +7,22 @@ favicon: 'assets/images/PersonalLogo-2-transparent.png'
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: hilali.murto@gmail.com
 
 # Authors
 authors:
   Murto:
     name: Murto
     display_name: Murto
+    avatar: 'assets/images/Headshot-Square.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: 
-    web: 
+    email: hilali.murto@gmail.com
+    web: https://www.linkedin.com/in/murtohilali/
     twitter: https://twitter.com/MurtoHilali
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "18 y/o student and entrepreneur in Toronto, Canada. Interested in all things innovation, tech, business, economics, psychology, and growth."
   john:
     name: John
     display_name: John    
@@ -54,7 +55,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: $yellow
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
