@@ -11,7 +11,7 @@ When I was in kindergarten, I was hopelessly in love with a female classmate who
 
 My point? Faces are important for humans, and we need to see them so we can make GENUINE CONNECTIONS.
 
-For this reason, video conferencing for businesses and families has exploded in the past two months, with Zoom and its **$38 billion valuation at the forefront.**
+For this reason, video conferencing for businesses and families has exploded in the past two months, with Zoom and its **$38 billion** valuation at the forefront.
 
 #### Point I for Google: Monopoly power
 
