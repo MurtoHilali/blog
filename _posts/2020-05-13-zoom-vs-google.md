@@ -29,7 +29,7 @@ All things considered, Google says it’s doing this to help families/businesses
 
 #### Point II for Google: Network effects
 
-<img src="/assets/images/zvg_3.jpg" alt="Illustration">
+![illustration](https://miro.medium.com/max/1400/0*OObtkyQ05_zkJ57u.jpeg)
 
 As more people join a network, the more useful it becomes for each user. Since the average value for each user goes up, more people join the network.
 
