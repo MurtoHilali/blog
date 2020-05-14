@@ -3,7 +3,7 @@ name: "Murto Hilali"
 title: "Murto Hilali"
 description: "Hi! I'm Murto. Weekly thoughts on tech, business, and behaviours from an 18 y/o entrepreneur."
 logo: 'assets/images/PersonalLogo-2-transparent.png'
-favicon: 'assets/images/PersonalLogo-2-transparent.png'
+favicon: 'assets/images/myfavicon.png'
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -26,7 +26,7 @@ authors:
   Murto:
     name: Murto
     display_name: Murto    
-    avatar: 'assets/images/Headshot-Square.jpg'
+    avatar: 'assets/images/Headshot-Square.JPG'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: hilali.murto@gmail.com
     web: https://www.linkedin.com/in/murtohilali/
