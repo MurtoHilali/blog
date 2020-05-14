@@ -2,8 +2,8 @@
 layout: post
 title:  "Zoom vs. Google (aka Goliath) — Who Comes Out On Top?"
 author: Murto
-categories: [ BYTE/SIZE ]
-tags: [ BYTE/SIZE, Technology, Business, Marketing ]
+categories: [ BYTE/SIZE, Technology, Business, Marketing  ]
+tags: [ BYTE/SIZE ]
 comments: false
 image: assets/images/zvg_1.jpg
 ---
