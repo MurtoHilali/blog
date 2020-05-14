@@ -91,4 +91,4 @@ You know, I haven’t talked to my kindergarten crush in forever. Maybe I’ll c
 
 ![BYTE/SIZE logo](https://miro.medium.com/max/700/1*jc__jIzriIjhmgRtRt_vDg.png)
 
-```A byte-sized deep dive into the world of tech and business.
+```A byte-sized deep dive into the world of tech and business.```
