@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: Columns
-permalink: /columns
+title: Categories
+permalink: /categories
 ---
