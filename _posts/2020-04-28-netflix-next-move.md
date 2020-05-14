@@ -4,7 +4,7 @@ title:  "Netflix Is Now Worth More Than Disney — What’s Their Next Move?"
 author: Murto
 categories: [ Business, Technology, Marketing ]
 tags: [ BYTE/SIZE ]
-image: assets/images/New Project (19).jpg
+image: assets/images/netflix1.jpg
 ---
 
 My friends, who are 17–18-year-old males, have devoted their eyeballs to Netflix’s latest reality show: Too Hot To Handle, where attractive singles spend a month on a desert island trying not to advance the human species together (no sex).
