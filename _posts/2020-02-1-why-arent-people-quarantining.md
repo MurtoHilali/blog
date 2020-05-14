@@ -4,7 +4,7 @@ title:  "Why aren’t people quarantining?"
 author: john
 categories: [ Neuroscience, Psychology, Game Theory, Science ]
 tags: [ Causality ]
-image: assets/images/16.jpg
+image: assets/images/qbackground.jpg
 ---
 
 If 2019 was a year of revolution, 2020 is the year of crisis. Luckily, there are still a few added sprinkles of revolution. Really, really, dumb revolution.
