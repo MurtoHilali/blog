@@ -89,6 +89,6 @@ Google will have time to improve Meet over the next few months, but we can remai
 
 You know, I haven’t talked to my kindergarten crush in forever. Maybe I’ll call her — you know, just to see how she’s doing. No other reason.
 
-![BYTE/SIZE logo](https://miro.medium.com/max/700/1*jc__jIzriIjhmgRtRt_vDg.png)
+![BYTE/SIZE logo](https://miro.medium.com/max/1400/1*oi8HDO5qpCCq8gv83RivUg.png)
 
 ```A byte-sized deep dive into the world of tech and business.```
