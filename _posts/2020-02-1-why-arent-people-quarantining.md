@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why aren’t people quarantining?"
-author: john
+author: Murto
 categories: [ Neuroscience, Psychology, Game Theory, Science ]
 tags: [ Causality ]
 image: assets/images/qbackground.jpg
