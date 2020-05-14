@@ -97,9 +97,7 @@ The worst-case scenario is when Others Go Out: -2 MOUs.
 
 Both your best AND worst-case scenarios are better if You choose to Go Out, so as a rational person, that’s the strategy you choose. However, the Others will go through the exact same thought process as You.
 
-<p align="center">
-  <img width="450" height="450" src="https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png"> 
-</p>
+<div style="text-align: center"><img src="https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png" width="100" /></div>
 
 <p align="center">
   <img width="450" height="450" src="https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png"> 
