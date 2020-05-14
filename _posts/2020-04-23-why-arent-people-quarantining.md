@@ -9,6 +9,7 @@ image: assets/images/qbackground.jpg
 
 If 2019 was a year of revolution, 2020 is the year of crisis. Luckily, there are still a few added sprinkles of revolution. Really, really, dumb revolution.
 
+![](https://pbs.twimg.com/media/EV0mYL5XgAIhOQA?format=jpg&name=large)
 
 Protests against social distancing measures have been popping up in Vancouver, Michigan, and Minnesota. That’s right — people who are upset that they’ve been drafted by the government to sit on their couch and WATCH NETFLIX ALL DAY.
 
@@ -122,6 +123,8 @@ When socio-cultural psychologists compare different cultures, they use a set of 
 One of these dimensions is the power-distance index, or PDI. The PDI measures how willing the less-powerful people in a society are to accept rigid social hierarchies.
 
 Countries with a high PDI score (Russia, China, Ecuador) tend to accept uneven power distribution and demonstrate deference to elders and authorities. Countries with low PDI scores look like this:
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Kiss-live-at-allphones-arena-070.jpg)
 
 Just kidding.
 
