@@ -2,8 +2,9 @@
 layout: post
 title:  "Can Amazon Achieve World Domination Using Video Games?"
 author: Murto
-categories: [ Travel ]
-image: (https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+categories: [ Gaming, Technology, Business ]
+tags: [ BYTE/SIZE ]
+image: "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 By the end of 2020, the global gaming industry will be worth more than double the global recorded music industry and the global box office.
@@ -79,5 +80,5 @@ With original content, cloud gaming, and gaming subscriptions probably coming to
 
 ![](https://miro.medium.com/max/700/1*LflA1flS60jGPSao6afLhw.png)
 
-```A **byte-sized deep dive** into the world of **tech** and **business.**```
+```A byte-sized deep dive into the world of tech and business.```
 
