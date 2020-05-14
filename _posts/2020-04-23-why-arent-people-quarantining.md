@@ -51,7 +51,9 @@ We can model the decision to quarantine/go out with a payoff matrix:
 
 ‘You’ are you, and the ‘Others’ are the people in your community, workplace, class, etc. You both have the same set of decisions, or strategies, available to you: Stay In (quarantine) or Go Out (not quarantine). The combinations of the different strategies you both choose results in four different payoffs:
 
-![](https://miro.medium.com/max/500/1*UwCr5T3Y0hBXETVrZpMdBQ.png)
+<p align="center">
+  <img width="450" height="450" src="https://miro.medium.com/max/500/1*UwCr5T3Y0hBXETVrZpMdBQ.png">
+</p>
 
 #### Top Left — the optimal collective outcome
 
@@ -98,8 +100,13 @@ The worst-case scenario is when Others Go Out: -2 MOUs.
 
 Both your best AND worst-case scenarios are better if You choose to Go Out, so as a rational person, that’s the strategy you choose. However, the Others will go through the exact same thought process as You.
 
-![](https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png) 
-![](https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png)
+<p align="center">
+  <img width="450" height="450" src="https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png"> 
+</p>
+
+<p align="center">
+  <img width="450" height="450" src="https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png"> 
+</p>
 
 With the same options available, their goal is also to minimize MOUs lost too— that means they will also choose to Go Out.
 
@@ -148,7 +155,9 @@ Participants were all given similar situations — they were in a changing compa
 
 Participants were then asked about their organizational commitment (which in this case represents how favourably they felt about the situation) via a questionnaire afterward, and results showed the following:
 
-![](https://miro.medium.com/max/413/1*DjJYmIidU0vFnXfOleGbVA.png)
+<p align="center">
+  <img width="420" height="250" src="https://miro.medium.com/max/413/1*DjJYmIidU0vFnXfOleGbVA.png">
+</p>
 
 So while we all like to have a high level of input, low PDI citizens, like the ones in the U.S. and Canada, really don’t like it when they don’t have a voice in decision-making — accepting unilateral decisions from the government is just not in our culture.
 
@@ -184,8 +193,11 @@ The DRN is a region of the brain that is especially serotonin-heavy (another neu
 
 Research by **Matthews et al. (2016)** showed that dopaminergic neurons in the DRN activated when mice were put through social isolation.
 
-![](https://miro.medium.com/max/315/1*nUOdBLcKXNVtngG1wUcPuA.png)
-“Representative spatial heat maps showing the location of a ChR2-expressing mouse” | Red indicates more time spent in the area. | Source: Matthews et al. (2016)
+<p align="center">
+  <img width="240" height="180" src="https://miro.medium.com/max/315/1*nUOdBLcKXNVtngG1wUcPuA.png">
+ </p>
+
+*“Representative spatial heat maps showing the location of a ChR2-expressing mouse” | Red indicates more time spent in the area. | Source: Matthews et al. (2016)*
 
 They put these mice through the three-chambers task. The mouse starts off in the central region (shown by the dotted lines) and can go to either side. The social side (left side) has another mouse in it, the non-social side is empty.
 
