@@ -1,9 +1,9 @@
 # Site
 name: "Murto Hilali"
 title: "Murto Hilali"
-description: "Hi! I'm Murto. Weekly thoughts on tech, business, and behaviours from an 18 y/o entrepreneur."
+description: "Hi! I'm Murto. Weekly thoughts on STEM, business, and behaviours from an 18 y/o entrepreneur."
 logo: 'assets/images/PersonalLogo-2-transparent.png'
-favicon: 'assets/images/favicon-2.png'
+favicon: 'assets/images/PersonalLogo-2-transparent.png'
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
