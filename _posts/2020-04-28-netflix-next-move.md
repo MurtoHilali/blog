@@ -9,7 +9,7 @@ image: assets/images/netflix1.jpg
 
 My friends, who are 17–18-year-old males, have devoted their eyeballs to Netflix’s latest reality show: Too Hot To Handle, where attractive singles spend a month on a desert island trying not to advance the human species together (no sex).
 
-![Cast of 'Too Hot to Handle'](https://www.whats-on-netflix.com/wp-content/uploads/2020/04/NEWNETFLIXUPDATE_Too-Hot-To-Handle.jpg)
+![Cast of 'Too Hot to Handle'](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/thth-cast-1586794206.jpeg)
 
 These are guys who read self-help books and publish on Medium, guys who I admire. My point? Netflix has successfully stolen my friend group’s souls, AND I WANT THEM BACK. Slow clap, Netflix, slow clap.
 
