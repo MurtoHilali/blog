@@ -10,9 +10,11 @@ I know what you're thinking.
 
 **"Should I invest in the hottest new AI-powered face mask startup from San Diego?"**
 
-Personally, I'm throwing in all my life's savings — $37.28 and a Tim Horton's gift card (I don't actually know the balance). Face masks have become essential in the fight against Covid-19 and brands are getting creative with new and sexy *FASHION *masks:
+Personally, I'm throwing in all my life's savings — $37.28 and a Tim Horton's gift card (I don't actually know the balance). Face masks have become essential in the fight against Covid-19 and brands are getting creative with new and sexy *FASHION* masks:
 
+{:refdef: style="text-align: center;"}
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/mask_fashion-compressor-620x404.png)
+{: refdef}
 
 But is there any longevity to this product? Some Asian cultures like China and Japan already wear face masks as a part of their daily outfit, but could that trend translate to Western markets after this scare is over? Are fashionable face masks, sold anywhere from H&M to Louis Vuitton, going to be the next big thing in face apparel?
 
@@ -26,7 +28,7 @@ But is there any longevity to this product? Some Asian cultures like China and J
 
 ### At face value, it's got mask market appeal...
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)(Created by Murto Hilali)
 
 #### (Get it?)
 
