@@ -46,7 +46,8 @@ If wholesale prices fall anywhere between $3--6, we can apply the Keystone prin
 Face masks have the potential to ride the post-apocalyptic streetwear culture wave, so we might see $10--15 masks at other fast-fashion joints.
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brownmask.jpg)(Created by Murto Hilali
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brownmask.jpg)
+*Created by Murto Hilali
 {:refdef}
 
 Luxury masks: LVMH had gross margins of about [65% in 2008](https://www.researchgate.net/figure/LVMH-Income-Statement-Fiscal-Year-2008_tbl1_292770560), and some claim their handbags have markups of [90%](https://www.cbsnews.com/news/what-would-a-luxury-handbag-cost-without-the-markup/). Let's estimate a 75% markup on Louis Vuitton face masks. Assuming a slightly higher wholesale price at $6, we apply the following [formula](https://www.entrepreneur.com/article/193986) used to determine selling price:
