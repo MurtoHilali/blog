@@ -158,7 +158,7 @@ This speaks to a trend that governs information cascades:
 
 {:refdef: style="text-align: center;"}
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)
-*[Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf))*
+*[Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)*
 {:refdef}
 
 This means three matching signals in a row will always cause a cascade. Let's split N up into chunks of 3 consecutive people: the probability that they all get the same signal is:
