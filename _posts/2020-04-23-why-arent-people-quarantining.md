@@ -102,11 +102,9 @@ The worst-case scenario is when Others Go Out: -2 MOUs.
 
 Both your best AND worst-case scenarios are better if You choose to Go Out, so as a rational person, that’s the strategy you choose. However, the Others will go through the exact same thought process as You.
 
-{:refdef: style="text-align: center;"} 
 Stay In |  Go Out
 :--------:|:-------:
 ![](https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png)  |  ![](https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png)
-{:refdef} 
 
 With the same options available, their goal is also to minimize MOUs lost too— that means they will also choose to Go Out.
 
@@ -137,6 +135,7 @@ Countries with a high PDI score (Russia, China, Ecuador) tend to accept uneven p
 {:refdef: style="text-align: center;"}
 ![](https://media3.giphy.com/media/hWA1mARt9sh4eKKo89/giphy.gif?cid=ecf05e4765cd810781bf4ae8da041710a335129e509d27b6&rid=giphy.gif)
 {:refdef}
+
 Just kidding.
 
 Low PDI countries (Germany, Sweden, the U.S.) tend to question authority more and have less hierarchical social structures.
