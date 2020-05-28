@@ -29,7 +29,8 @@ But is there any longevity to this product? Some Asian cultures like China and J
 ### At face value, it's got mask market appeal...
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)(Created by Murto Hilali)
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)
+*Created by Murto Hilali*
 {:refdef}
 
 #### (Get it?)
@@ -79,7 +80,8 @@ But numbers never tell the whole story — they're sneaky like that. Luckily
 ### Other_people_42 rated this mask: ⭐⭐⭐⭐
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainmask-614x480.jpg)(Created by Murto Hilali)
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainmask-614x480.jpg)
+*Created by Murto Hilali*
 {:refdef}
 
 
@@ -94,7 +96,8 @@ They used 30 random symbols in the experiment throughout 2 phases: 10 tagged as�
 When participants saw symbols that were tagged (the ones they saw in the first phase) vs. new, untagged symbols (they didn't know other peoples' opinions of these) there was greater activation in the medial prefrontal cortex (mPFC).
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/twobrains.jpg)(Prefrontal cortex (left) and caudate nucleus (right) ¦ Neuroscientifically Challenged)
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/twobrains.jpg)
+*Prefrontal cortex (left) and caudate nucleus (right) ¦ Neuroscientifically Challenged*
 {:refdef}
 
 The mPFC is associated with thinking about other people's attitudes and preferences; it's active when we have social information about what we're viewing/thinking about, regardless of whether it's popular or unpopular.
@@ -102,7 +105,8 @@ The mPFC is associated with thinking about other people's attitudes and preferen
 They saw greater activation in the caudate when participants saw popular symbols vs. unpopular ones. The caudate nucleus is associated with the reward pathways in your brain.
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainscan-compressor-555x480.png)([Mason et al. 2009]((https://static1.squarespace.com/static/5d5da68404bf1c00017f9e9a/t/5db11c7880047a6a4f25bc8e/1571888249304/mason+dyer+norton.pdf))
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainscan-compressor-555x480.png)
+*[Mason et al. 2009]((https://static1.squarespace.com/static/5d5da68404bf1c00017f9e9a/t/5db11c7880047a6a4f25bc8e/1571888249304/mason+dyer+norton.pdf))*
 {:refdef}
 
 Your brain rewards you for being part of what's popular because it usually has an evolutionary advantage. Humans are a social species - adopting group behaviour builds a stronger connection with your group, which helps you survive.
@@ -118,7 +122,8 @@ This is the neurological underpinning of whether something like a brand or cloth
 ### Well, according to my calculations...
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/dice-614x480.jpg)(Created by Murto Hilali)
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/dice-614x480.jpg)
+*Created by Murto Hilali*
 {:refdef}
 
 #### It depends on the number of people.
@@ -152,7 +157,8 @@ This speaks to a trend that governs information cascades:
 -   If the number of *rejections exceeds acceptances by two*, it starts a cascade of rejection.
 
 {:refdef: style="text-align: center;"}
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)([Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf))
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)
+*[Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf))*
 {:refdef}
 
 This means three matching signals in a row will always cause a cascade. Let's split N up into chunks of 3 consecutive people: the probability that they all get the same signal is:
