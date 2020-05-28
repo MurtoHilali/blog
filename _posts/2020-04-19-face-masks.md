@@ -28,7 +28,9 @@ But is there any longevity to this product? Some Asian cultures like China and J
 
 ### At face value, it's got mask market appeal...
 
+{:refdef: style="text-align: center;"}
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)(Created by Murto Hilali)
+{:refdef}
 
 #### (Get it?)
 
@@ -42,7 +44,9 @@ If wholesale prices fall anywhere between $3--6, we can apply the Keystone prin
 
 Face masks have the potential to ride the post-apocalyptic streetwear culture wave, so we might see $10--15 masks at other fast-fashion joints.
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brownmask.jpg)
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brownmask.jpg)(Created by Murto Hilali
+{:refdef}
 
 Luxury masks: LVMH had gross margins of about [65% in 2008](https://www.researchgate.net/figure/LVMH-Income-Statement-Fiscal-Year-2008_tbl1_292770560), and some claim their handbags have markups of [90%](https://www.cbsnews.com/news/what-would-a-luxury-handbag-cost-without-the-markup/). Let's estimate a 75% markup on Louis Vuitton face masks. Assuming a slightly higher wholesale price at $6, we apply the following [formula](https://www.entrepreneur.com/article/193986) used to determine selling price:
 
@@ -62,9 +66,11 @@ Realistically, a Louis Vuitton face mask would be made of leather, not cloth �
 
 Strong demand, high markups, a growing market, and recurring revenue? From a numerical perspective, high-fashion face masks seem to hold some business potential.
 
-Unless you get beaten out by these absolutely *gangster *bandana masks the CDC is teaching you how to make at home:
+Unless you get beaten out by these absolutely *gangster* bandana masks the CDC is teaching you how to make at home:
 
+{:refdef: style="text-align: center;"}
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cdcmask-620x384.png)
+{:refdef}
 
 But numbers never tell the whole story — they're sneaky like that. Luckily, the brain is very revealing...
 
@@ -72,9 +78,10 @@ But numbers never tell the whole story — they're sneaky like that. Luckily
 
 ### Other_people_42 rated this mask: ⭐⭐⭐⭐
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainmask-614x480.jpg)
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainmask-614x480.jpg)(Created by Murto Hilali)
+{:refdef}
 
-Created by Murto Hilali
 
 #### And your medial prefrontal cortex + caudate nucleus agree
 
@@ -86,17 +93,17 @@ They used 30 random symbols in the experiment throughout 2 phases: 10 tagged as�
 
 When participants saw symbols that were tagged (the ones they saw in the first phase) vs. new, untagged symbols (they didn't know other peoples' opinions of these) there was greater activation in the medial prefrontal cortex (mPFC).
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/twobrains.jpg)
-
-Prefrontal cortex (left) and caudate nucleus (right) ¦ Neuroscientifically Challenged
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/twobrains.jpg)(Prefrontal cortex (left) and caudate nucleus (right) ¦ Neuroscientifically Challenged)
+{:refdef}
 
 The mPFC is associated with thinking about other people's attitudes and preferences; it's active when we have social information about what we're viewing/thinking about, regardless of whether it's popular or unpopular.
 
 They saw greater activation in the caudate when participants saw popular symbols vs. unpopular ones. The caudate nucleus is associated with the reward pathways in your brain.
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainscan-compressor-555x480.png)
-
-Screenshot by Author | [Mason et al. 2009](https://static1.squarespace.com/static/5d5da68404bf1c00017f9e9a/t/5db11c7880047a6a4f25bc8e/1571888249304/mason+dyer+norton.pdf)
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/brainscan-compressor-555x480.png)([Mason et al. 2009]((https://static1.squarespace.com/static/5d5da68404bf1c00017f9e9a/t/5db11c7880047a6a4f25bc8e/1571888249304/mason+dyer+norton.pdf))
+{:refdef}
 
 Your brain rewards you for being part of what's popular because it usually has an evolutionary advantage. Humans are a social species - adopting group behaviour builds a stronger connection with your group, which helps you survive.
 
@@ -110,7 +117,9 @@ This is the neurological underpinning of whether something like a brand or cloth
 
 ### Well, according to my calculations...
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/dice-614x480.jpg)
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/dice-614x480.jpg)(Created by Murto Hilali)
+{:refdef}
 
 #### It depends on the number of people.
 
@@ -128,7 +137,9 @@ Signals can be high (H), meaning accepting is a good idea, or low (L) meaning it
 
 Mathematically speaking, the probability of getting a high signal given it's a good idea (denoted by Pr [*H* ¦ *G*], or *q*) will be greater than 0.5. Pr [*L* ¦ *G*] will therefore be 1 - *q*. The same applies for the opposite:
 
+{:refdef: style="text-align: center;"}
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/states-495x480.png)
+{:refdef}
 
 As a rule, the first person will follow their signal, as will the second. (Proof can be found [here](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)).
 
@@ -140,17 +151,21 @@ This speaks to a trend that governs information cascades:
 -   If the number of *acceptances exceeds rejections by two*, it starts a cascade of acceptance.
 -   If the number of *rejections exceeds acceptances by two*, it starts a cascade of rejection.
 
-![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)
-
-Screenshot by Author ¦ [Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)
+{:refdef: style="text-align: center;"}
+![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)([Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf))
+{:refdef}
 
 This means three matching signals in a row will always cause a cascade. Let's split N up into chunks of 3 consecutive people: the probability that they all get the same signal is:
 
+{:refdef: style="text-align: center;"}
 *q*<sup>3</sup> + (1 - *q*)<sup>3</sup>, *or* q × q × q + (1 - *q*) × (1 - *q*) × (1 - *q*).
+{:refdef}
 
 By the same reasoning, the probability none of them get identical signals (i.e. no cascade happens) is
 
+{:refdef: style="text-align: center;"}
 (1 - q<sup>3</sup> - (1 - q)<sup>3</sup>)<sup>N/3</sup>.
+{:refdef}
 
 As N approaches infinity, this value starts to = 0.
 
