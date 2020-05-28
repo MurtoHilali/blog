@@ -185,15 +185,18 @@ Quarantine limits the level of social interaction most of us want to have, so it
 
 Dopamine is a chemical messenger that sends signals around the brain (a neurotransmitter) and is associated with good feelings — eating good food, hearing a funny joke, positive social interactions.
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/700/0*EAmS-GWdfKBi9udz.jpg)
+{:refdef}
 
 The DRN is a region of the brain that is especially serotonin-heavy (another neurotransmitter) and is associated with sleep cycles and depression.
 
 Research by **Matthews et al. (2016)** showed that dopaminergic neurons in the DRN activated when mice were put through social isolation.
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/315/1*nUOdBLcKXNVtngG1wUcPuA.png)
-
 *“Representative spatial heat maps showing the location of a ChR2-expressing mouse”. Red indicates more time spent in the area. Source: Matthews et al. (2016)*
+{:refdef}
 
 They put these mice through the three-chambers task. The mouse starts off in the central region (shown by the dotted lines) and can go to either side. The social side (left side) has another mouse in it, the non-social side is empty.
 
