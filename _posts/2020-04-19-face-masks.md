@@ -2,13 +2,13 @@
 layout: post
 title:  "Will face masks be the next big thing?"
 author: Murto
-categories: [ Neuroscience, Economics, Mathematic, Psychology, Business ]
+categories: [ Neuroscience, Economics, Mathematics, Psychology, Business ]
 tags: [ Causality ]
 image: "https://miro.medium.com/max/1400/1*JhoaDY436zAMMrLV7VJpuQ.png"
 ---
 I know what you're thinking.
 
->"Should I invest in the hottest new AI-powered face mask startup from San Diego?"
+**"Should I invest in the hottest new AI-powered face mask startup from San Diego?"**
 
 Personally, I'm throwing in all my life's savings — $37.28 and a Tim Horton's gift card (I don't actually know the balance). Face masks have become essential in the fight against Covid-19 and brands are getting creative with new and sexy *FASHION *masks:
 
@@ -27,8 +27,6 @@ But is there any longevity to this product? Some Asian cultures like China and J
 ### At face value, it's got mask market appeal...
 
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/maskmoney.jpg)
-
-Created by Murto Hilali
 
 #### (Get it?)
 
@@ -50,7 +48,7 @@ Luxury masks: LVMH had gross margins of about [65% in 2008](https://www.resear
 
 Plugging in our values, we get:
 
-```Selling price = [($6) ÷ (100--75)] × 100```
+```Selling price = [($6) ÷ (100 - 75)] × 100```
 
 ```Selling price = $24```
 
@@ -88,7 +86,7 @@ When participants saw symbols that were tagged (the ones they saw in the first p
 
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/twobrains.jpg)
 
-Prefrontal cortex (left) and caudate nucleus (right) | Neuroscientifically Challenged
+Prefrontal cortex (left) and caudate nucleus (right) ¦ Neuroscientifically Challenged
 
 The mPFC is associated with thinking about other people's attitudes and preferences; it's active when we have social information about what we're viewing/thinking about, regardless of whether it's popular or unpopular.
 
@@ -112,8 +110,6 @@ This is the neurological underpinning of whether something like a brand or cloth
 
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/dice-614x480.jpg)
 
-Created by Murto Hilali
-
 #### It depends on the number of people.
 
 Information cascades occur when people make decisions sequentially, even if it goes against their own private information, based on the observed decisions of other people.
@@ -128,7 +124,7 @@ Signals: Everyone has private information, or a private signal, that gives them
 
 Signals can be high (H), meaning accepting is a good idea, or low (L) meaning it's a bad idea. If it is, in fact, a good idea, then high signals will be more frequent than low ones.
 
-Mathematically speaking, the probability of getting a high signal given it's a good idea (denoted by Pr [*H *|*G*], or *q*) will be greater than 0.5. Pr [*L *| *G*] will therefore be 1 - *q*. The same applies for the opposite:
+Mathematically speaking, the probability of getting a high signal given it's a good idea (denoted by Pr [*H* ¦ *G*], or *q*) will be greater than 0.5. Pr [*L* ¦ *G*] will therefore be 1 - *q*. The same applies for the opposite:
 
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/states-495x480.png)
 
@@ -144,7 +140,7 @@ This speaks to a trend that governs information cascades:
 
 ![blank](https://s3.amazonaws.com/datadriveninvestor/uploads/2020/05/cascade-620x376.png)
 
-Screenshot by Author | [Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)
+Screenshot by Author ¦ [Cornell](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)
 
 This means three matching signals in a row will always cause a cascade. Let's split N up into chunks of 3 consecutive people: the probability that they all get the same signal is:
 
@@ -174,4 +170,4 @@ That mean the more people there are in the sequence, the likelier a cascade is t
 
 * * *
 
-``` This article is part of *Causality*, a column where I use different sciences + disciplines to answer questions I have about the world.```
+``` This article is part of Causality, a column where I use different sciences + disciplines to answer questions I have about the world.```
