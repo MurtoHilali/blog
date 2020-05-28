@@ -3,6 +3,11 @@ title: "Tags"
 layout: default
 permalink: "/tags.html"
 ---
+<head>
+    
+<link rel="shortcut icon" type="image/x-icon" href="myfavicon.ico">
+   
+</head>
 
 {% for tag in site.tags %}
 <h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span></h4>
