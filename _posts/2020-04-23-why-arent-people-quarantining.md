@@ -43,11 +43,15 @@ So why is it so hard for people to just stay home? (Obviously excluding essentia
 
 We can model the decision to quarantine/go out with a payoff matrix:
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/700/1*Aw21vbneMLw2LcRdJxfXuQ.png)
+{:refdef} 
 
 ‘You’ are you, and the ‘Others’ are the people in your community, workplace, class, etc. You both have the same set of decisions, or strategies, available to you: Stay In (quarantine) or Go Out (not quarantine). The combinations of the different strategies you both choose results in four different payoffs:
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/500/1*UwCr5T3Y0hBXETVrZpMdBQ.png)
+{:refdef}
 
 #### Top Left — the optimal collective outcome
 
@@ -76,7 +80,9 @@ Your best-case scenario (combination with the highest payoff) is when Others Sta
 
 Your worst-case scenario (lowest payoff) occurs when Others Go Out: -3 MOUs.
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/723/1*ru7jpt0-u0OkCEzszakZpQ.png)
+{:refdef}
 
 #### If You choose to Go Out:
 
@@ -84,7 +90,9 @@ The best-case scenario is when Others Stay In: 0 MOUs lost
 
 The worst-case scenario is when Others Go Out: -2 MOUs.
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/723/1*Cet5PHBq6fcASxZeWBV8oQ.png)
+{:refdef} 
 
 ```Stay In: Best Payoff = -1, Worst Payoff = -3```
 
@@ -94,9 +102,11 @@ The worst-case scenario is when Others Go Out: -2 MOUs.
 
 Both your best AND worst-case scenarios are better if You choose to Go Out, so as a rational person, that’s the strategy you choose. However, the Others will go through the exact same thought process as You.
 
-![](https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png)
-
-![](https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png)
+{:refdef: style="text-align: center;"} 
+Stay In |  Go Out
+:--------:|:-------:
+![](https://miro.medium.com/max/500/1*xy719c1poQddkFgsXxWiIA.png)  |  ![](https://miro.medium.com/max/500/1*IAIrxcfUXyDZIjUfEWRS3Q.png)
+{:refdef} 
 
 With the same options available, their goal is also to minimize MOUs lost too— that means they will also choose to Go Out.
 
@@ -124,8 +134,9 @@ One of these dimensions is the power-distance index, or PDI. The PDI measures ho
 
 Countries with a high PDI score (Russia, China, Ecuador) tend to accept uneven power distribution and demonstrate deference to elders and authorities. Countries with low PDI scores look like this:
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Kiss-live-at-allphones-arena-070.jpg)
-
+{:refdef: style="text-align: center;"}
+![](https://media3.giphy.com/media/hWA1mARt9sh4eKKo89/giphy.gif?cid=ecf05e4765cd810781bf4ae8da041710a335129e509d27b6&rid=giphy.gif)
+{:refdef}
 Just kidding.
 
 Low PDI countries (Germany, Sweden, the U.S.) tend to question authority more and have less hierarchical social structures.
