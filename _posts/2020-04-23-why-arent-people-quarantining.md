@@ -155,7 +155,9 @@ Participants were all given similar situations — they were in a changing compa
 
 Participants were then asked about their organizational commitment (which in this case represents how favourably they felt about the situation) via a questionnaire afterward, and results showed the following:
 
+{:refdef: style="text-align: center;"} 
 ![](https://miro.medium.com/max/413/1*DjJYmIidU0vFnXfOleGbVA.png)
+{:refdef}
 
 So while we all like to have a high level of input, low PDI citizens, like the ones in the U.S. and Canada, really don’t like it when they don’t have a voice in decision-making — accepting unilateral decisions from the government is just not in our culture.
 
