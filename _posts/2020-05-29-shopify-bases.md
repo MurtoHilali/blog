@@ -1,15 +1,16 @@
-# How Shopify is Loading the Bases for a Swing at Amazon
-
-Created: May 29, 2020 → May 29, 2020
-Created by: Murto Hilali
-Tags: BYTE/SIZE
-Topics: Business, E-commerce, Technology
-
-![https://cdn-images-1.medium.com/max/900/1*B96dW1AbinsshfYzhXTTBw.jpeg](https://cdn-images-1.medium.com/max/900/1*B96dW1AbinsshfYzhXTTBw.jpeg)
+---
+layout: post
+title:  "How Shopify is Loading the Bases for a Swing at Amazon"
+author: Murto
+categories: [ Technology, Business, Marketing, E-commerce ]
+tags: [ BYTE/SIZE ]
+comments: false
+image: "https://cdn-images-1.medium.com/max/900/1*B96dW1AbinsshfYzhXTTBw.jpeg"
+---
 
 I’m Canadian, which means I drink milk out of a bag, ride a polar bear to school, and my blood type is maple syrup. It also means I was founded in the same place as e-commerce platform Shopify.
 
-![https://cdn-images-1.medium.com/max/900/1*qmzL9Fw5hkwnR0_5OrLNdg.jpeg](https://cdn-images-1.medium.com/max/900/1*qmzL9Fw5hkwnR0_5OrLNdg.jpeg)
+![](https://cdn-images-1.medium.com/max/900/1*qmzL9Fw5hkwnR0_5OrLNdg.jpeg)
 
 Shopify is the company powering online stores and POS for 1,000,000+ business, including brands like Allbirds, October’s Very Own, and Heinz.
 
@@ -17,11 +18,11 @@ In 2019, they made it clear that they were coming after Amazon, but tackling a c
 
 Although Amazon is likely to be the first $2 trillion company in the world, Shopify has made some key moves in the past few months that might pave the way for the Canadian Invasion.
 
-## 1. Including a ‘BNPL’ installment system
+### 1. Including a ‘BNPL’ installment system
 
-![https://cdn-images-1.medium.com/max/900/1*A_9jWEPKqCRzUWcbEtLOMw.jpeg](https://cdn-images-1.medium.com/max/900/1*A_9jWEPKqCRzUWcbEtLOMw.jpeg)
+![](https://cdn-images-1.medium.com/max/900/1*A_9jWEPKqCRzUWcbEtLOMw.jpeg)
 
-### BNPL: Buy now, pay later.
+#### BNPL: Buy now, pay later.
 
 Shopify’s plans for ‘Shop Pay Installments’ were recently unveiled at their Reunite conference. The payment service would customers pay for items on Shopify stores in 4 **monthly installments** with no interest.
 
@@ -37,11 +38,11 @@ Smart move by Shopify — especially in these times of unemployment and fina
 
 ---
 
-## 2. Shopify Fulfillment means vertical integration
+### 2. Shopify Fulfillment means vertical integration
 
-![https://cdn-images-1.medium.com/max/900/1*P1mqXmiGoj9r7ArP8L7Mug.jpeg](https://cdn-images-1.medium.com/max/900/1*P1mqXmiGoj9r7ArP8L7Mug.jpeg)
+![](https://cdn-images-1.medium.com/max/900/1*P1mqXmiGoj9r7ArP8L7Mug.jpeg)
 
-### If you took a shot every time I mentioned vertical integration in my articles, I would suddenly seem far more charming and attractive.
+#### If you took a shot every time I mentioned vertical integration in my articles, I would suddenly seem far more charming and attractive.
 
 I bring it up so much because vertical integration (the business strategy where you control every part of the supply chain) is a superpower in this economy.
 
@@ -55,11 +56,11 @@ It’s the next logical step for the platform and adds some major *cojones* to i
 
 ---
 
-## 3. Shop provides a centralized marketplace
+### 3. Shop provides a centralized marketplace
 
-![https://cdn-images-1.medium.com/max/900/1*aigjUqqvEDVY7NEbgBJPXA.jpeg](https://cdn-images-1.medium.com/max/900/1*aigjUqqvEDVY7NEbgBJPXA.jpeg)
+![](https://cdn-images-1.medium.com/max/900/1*aigjUqqvEDVY7NEbgBJPXA.jpeg)
 
-### Shopify has updated its order tracking app Arrive into Shop.
+#### Shopify has updated its order tracking app Arrive into Shop.
 
 It’s a platform that allows users to follow local brands, discover new stores, order products and track them all from within the app.
 
@@ -73,7 +74,7 @@ Platforms tend to benefit from **network effects**, and if Shop gains enough tra
 
 ---
 
-### That classic Canadian charisma
+#### That classic Canadian charisma
 
 This pandemic accelerates meaningful trends — one of those is e-commerce. Shopify’s product offerings and their dedication to SME’s may pave the way for a more ethical way of doing business online in the future.
 
@@ -83,8 +84,8 @@ But I guess only time will tell, eh?
 
 ---
 
-![https://cdn-images-1.medium.com/max/900/0*Ofy3jPcSvD8WVde8.png](https://cdn-images-1.medium.com/max/900/0*Ofy3jPcSvD8WVde8.png)
+![](https://cdn-images-1.medium.com/max/900/0*Ofy3jPcSvD8WVde8.png)
 
-```markdown
-A **byte-sized deep dive** into the world of **tech** and **business**.
+```
+A byte-sized deep dive into the world of tech and business.
 ```
