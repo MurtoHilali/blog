@@ -22,7 +22,7 @@ There’s a problem with that question — **it’s not an either/or choice,**�
 But how much benefit? Policymakers must be able to **quantitatively** justify public health-related decisions— to do that, they have to determine the dollar value of one human life.
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/600/1*UHIHLkUFChcMkl74uMvnEA.gif](https://miro.medium.com/max/600/1*UHIHLkUFChcMkl74uMvnEA.gif)
+![blank](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
 {:refdef}
 
 Does that sound callous and messed up? Probably — but this is the third edition of my series *Causality*, so I wanted to spice things up. After all…
@@ -37,15 +37,15 @@ There are a few different ways to answer this question…
 - **“An arm and a leg. And another leg. And the other arm. And the other parts of your body.”** — *Biology (and maybe the black market for organs?)*
 - **“My Chemical Finance”** — *Chemistry* (*or is this that punk band from the 2000s?)*
 
-# **Are you from Tennessee? ’Cause you’re the only $10 million I see…**
+### **Are you from Tennessee? ’Cause you’re the only $10 million I see…**
 
-![https://miro.medium.com/max/1600/1*WWeres1ag1FHdQ5KLwUO9Q.jpeg](https://miro.medium.com/max/1600/1*WWeres1ag1FHdQ5KLwUO9Q.jpeg)
+![](https://miro.medium.com/max/1600/1*WWeres1ag1FHdQ5KLwUO9Q.jpeg)
 
-# **Economically speaking, of course. 😉.**
+##### **Economically speaking, of course. 😉.**
 
 Economists use **price** as a way to **quantify** how much you **value** goods and services.
 
-![https://miro.medium.com/max/1600/1*sLG0ww4OHU6-eZymVABopQ.jpeg](https://miro.medium.com/max/1600/1*sLG0ww4OHU6-eZymVABopQ.jpeg)
+![https://miro.medium.com/max/875/1*sLG0ww4OHU6-eZymVABopQ.jpeg](https://miro.medium.com/max/875/1*sLG0ww4OHU6-eZymVABopQ.jpeg)
 
 If you value toilet paper more than you do a pack of FLINTSTONES™ Gummies (Plus Immunity Support), but not as much as your Holographic Shadowless First Edition Mewtwo, its price will be somewhere between the price of those two things
 
