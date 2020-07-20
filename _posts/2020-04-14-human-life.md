@@ -45,7 +45,7 @@ There are a few different ways to answer this question…
 
 Economists use **price** as a way to **quantify** how much you **value** goods and services.
 
-![https://miro.medium.com/max/875/1*sLG0ww4OHU6-eZymVABopQ.jpeg](https://miro.medium.com/max/875/1*sLG0ww4OHU6-eZymVABopQ.jpeg)
+![](https://miro.medium.com/max/875/1*sLG0ww4OHU6-eZymVABopQ.jpeg)
 
 If you value toilet paper more than you do a pack of FLINTSTONES™ Gummies (Plus Immunity Support), but not as much as your Holographic Shadowless First Edition Mewtwo, its price will be somewhere between the price of those two things
 
@@ -56,7 +56,7 @@ Price can also be used to determine **how much you value your own life**:
 One of the easiest ways to do this is by looking at the ***price*** of something (usually a safety product or service), then dividing it by the ***probability that it’s going to reduce your risk*** of fatality (effectiveness):
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/1001/1*btFDPyGF7hUlNX7PPTZ1_g.png](https://miro.medium.com/max/1001/1*btFDPyGF7hUlNX7PPTZ1_g.png)
+![](https://miro.medium.com/max/1001/1*btFDPyGF7hUlNX7PPTZ1_g.png)
 {:refdef}
 
 This is a simplified formula that’s just meant to get the idea across.
@@ -64,13 +64,13 @@ This is a simplified formula that’s just meant to get the idea across.
 Let’s flash forward to the near future, where your unmatched success and good looks have made you a frequent target for assassination. You decide to hire a bodyguard.
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/625/1*fB6eyY1clvt2aUMm3KwQDA.gif](https://miro.medium.com/max/625/1*fB6eyY1clvt2aUMm3KwQDA.gif)
+![](https://miro.medium.com/max/625/1*fB6eyY1clvt2aUMm3KwQDA.gif)
 {:refdef}
 
 Her services are **$150,000/year**, but she’s the best in the business — she’ll reduce the probability of you dying by **1 out of 100/year**. Let’s plug these into our formula:
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/594/1*AaHQ2NPQ2rCjQhlJoyaF1g.png](https://miro.medium.com/max/594/1*AaHQ2NPQ2rCjQhlJoyaF1g.png)
+![](https://miro.medium.com/max/594/1*AaHQ2NPQ2rCjQhlJoyaF1g.png)
 {:refdef}
 
 Congratulations, **you’re worth $15,000,000!** However, this isn’t the only way to figure VSL.
@@ -80,19 +80,19 @@ Congratulations, **you’re worth $15,000,000!** However, this isn’t the onl
 Divide the *increase in wages demanded* by workers by the corresponding *increase in their risk* of death:
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/941/1*9CdAYgB-NG6P4LPIFJhbAQ.png](https://miro.medium.com/max/941/1*9CdAYgB-NG6P4LPIFJhbAQ.png)
+![](https://miro.medium.com/max/941/1*9CdAYgB-NG6P4LPIFJhbAQ.png)
 {:refdef}
 
 Let’s say that you somehow become even *more* successful and good-looking than you already are — we all thought it was impossible, and yet somehow, you did it. Your enemies become even *more* dangerous.
 
-![https://miro.medium.com/max/1600/1*ATyBnN72zyhS_0GH1hCh-Q.jpeg](https://miro.medium.com/max/1600/1*ATyBnN72zyhS_0GH1hCh-Q.jpeg)
+![](https://miro.medium.com/max/1600/1*ATyBnN72zyhS_0GH1hCh-Q.jpeg)
 
 Rumour has it they've hired the most dangerous assassins on the planet.
 
 The risk of death your bodyguard faces **increases by 1 in 1,000.** As such, she demands a **$5,000 increase** in her salary. You’re happy to oblige — so now, what’s *her* VSL?
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/560/1*_pF5zN4YPbL5M8qedOmfNg.png](https://miro.medium.com/max/560/1*_pF5zN4YPbL5M8qedOmfNg.png)
+![](https://miro.medium.com/max/560/1*_pF5zN4YPbL5M8qedOmfNg.png)
 {:refdef}
 
 She’s worth $10 million! But why is it lower than yours?
@@ -102,7 +102,7 @@ She’s worth $10 million! But why is it lower than yours?
 Let’s use a different example — smoke detectors. If you have a high level of income, you have no problem buying a $25 smoke detector. **If you have a lower income,** you might wait until it’s on sale for $15. (Let’s assume it reduces your risk of fatality by 1 out 100,000):
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/1081/1*ljWfQEyDxpsYhp3Lkrm0HQ.png](https://miro.medium.com/max/1081/1*ljWfQEyDxpsYhp3Lkrm0HQ.png)
+![](https://miro.medium.com/max/1081/1*ljWfQEyDxpsYhp3Lkrm0HQ.png)
 {:refdef}
 
 **The lower-income individual values their life $1,000,000 less** (at least for this specific product)— but see, that’s **not necessarily accurate.** They just can’t *afford* to spend as much on risk reduction.
@@ -122,7 +122,7 @@ So, if anyone ever tells you that you look like a million bucks, they’re LYING
 
 ### **An arm and a leg. And probably your kidneys.**
 
-![https://miro.medium.com/max/1600/1*OnkC3UaUoY4vhroVJ8OZSQ.jpeg](https://miro.medium.com/max/1600/1*OnkC3UaUoY4vhroVJ8OZSQ.jpeg)
+![](https://miro.medium.com/max/1600/1*OnkC3UaUoY4vhroVJ8OZSQ.jpeg)
 
 #### **Researching this part of the article has undoubtedly put me on several federal crime watchlists.**
 
@@ -134,7 +134,7 @@ That being said, here are some approximate figures for different components of t
 - **Liver — $500,000:** The liver detoxifies your body, so it’s exposed to various chemicals — luckily, **it’s really good at regenerating itself**, even from as little a 25% of the original organ! While we don’t know the whole story of how exactly this happens (some evidence points to increased [telomerase levels](http://www.frontlinegenomics.com/news/21342/how-liver-regenerates-itself/)) it means you can get away with only selling *[part* of your liver](https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787).
 - **Kidney — $260,000:** I’m sure you’ve heard of people selling their kidneys as a joke — they help filter blood and make urine. (And you’ve got two of them.)
 
-![https://miro.medium.com/max/1600/1*YTQrry1S5RqEtBx1t_nI_g.jpeg](https://miro.medium.com/max/1600/1*YTQrry1S5RqEtBx1t_nI_g.jpeg)
+![](https://miro.medium.com/max/1600/1*YTQrry1S5RqEtBx1t_nI_g.jpeg)
 
 Blood is worth about **$337/pint**, women in the U.S. can rent out their wombs for **$80,000–150,000**, and a full human skeleton could run you over **$4,000.**
 
@@ -153,7 +153,7 @@ Speaking of breathing…
 At the most reductionist level, we can look at the elements that make up the human body:
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/2500/0*Jh3HdvOqZXZaFHKB.jpg](https://miro.medium.com/max/2500/0*Jh3HdvOqZXZaFHKB.jpg)
+![](https://miro.medium.com/max/2500/0*Jh3HdvOqZXZaFHKB.jpg)
 *Source: [ThoughtCo](https://www.thoughtco.com/chemical-composition-of-the-human-body-603995)*
 {:refdef}
 
@@ -162,7 +162,7 @@ At the most reductionist level, we can look at the elements that make up the hum
 If you ripped my atoms apart and sold them, you could probably get some money for them. After looking at multiple sources, I eventually settled on [ThoughCo’s chemical breakdown](https://www.thoughtco.com/worth-of-your-elements-3976054) and the average element prices found [here](https://en.wikipedia.org/wiki/Prices_of_chemical_elements) to build out this chart:
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/680/1*Foi5D9J5LEdQcslGeI4QMw.png](https://miro.medium.com/max/680/1*Foi5D9J5LEdQcslGeI4QMw.png)
+![](https://miro.medium.com/max/680/1*Foi5D9J5LEdQcslGeI4QMw.png)
 {:refdef}
 
 This is based on my approximate mass of 60 kg.
@@ -170,7 +170,7 @@ This is based on my approximate mass of 60 kg.
 I played around with a few different weights so I could map this function on Excel:
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/600/1*0f5xO8dmsaWByz8bJwz1IA.png](https://miro.medium.com/max/600/1*0f5xO8dmsaWByz8bJwz1IA.png)
+![](https://miro.medium.com/max/600/1*0f5xO8dmsaWByz8bJwz1IA.png)
 {:refdef}
 
 This is by no means a proper scientific graph, but you can extrapolate.
@@ -182,7 +182,7 @@ This is by no means a proper scientific graph, but you can extrapolate.
 Swap your own mass in kilograms in the equation above for *x*, and *y* will be equal to your approximate elemental value — as you can see, mine is $23.89. That’s *at least* 3 or 4 Big Macs.
 
 {:refdef: style="text-align: center;"}
-![https://miro.medium.com/max/2500/0*p99-2mpWUlnl7IJ6.jpg](https://miro.medium.com/max/2500/0*p99-2mpWUlnl7IJ6.jpg)
+![](https://miro.medium.com/max/2500/0*p99-2mpWUlnl7IJ6.jpg)
 {:refdef}
 
 Yeah, that’s a bummer.
@@ -200,4 +200,5 @@ Yeah, that’s a bummer.
 - Planning to hold someone hostage? **Use their VSL when negotiating a ransom amount.** I don’t condone kidnapping — but if you must, do so with economic reasoning. (I’M KIDDING).
 - If you’re really struggling to cover those student loans, remember that **you don’t need 100% of your liver to have a good time.**
 - When you inevitably defeat your enemies and the assassins they sent after you, don’t atomize them — **it doesn’t seem like the fiscally responsible thing to do.**
+
 ***
