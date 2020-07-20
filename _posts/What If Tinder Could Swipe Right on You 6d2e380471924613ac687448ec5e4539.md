@@ -1,0 +1,70 @@
+# What If Tinder Could Swipe Right on You?
+
+Created by: Murto Hilali
+Tags: BYTE/SIZE
+
+Turning 18 is a big step in anyone’s life, one that I took a month or two ago. It usually comes with a number of rites of passage: buying your first lottery, having your first drink, entering into soul-crushing debt agreements.
+
+Another is joining Tinder. We may be physically distanced, but the need to connect with others is stronger than ever. Absence makes the heart grow fonder, I guess?
+
+*That’s a lie, your high school relationship won’t last 2 weeks into university, JESSICA.*
+
+![https://miro.medium.com/max/1283/0*eDxWToTJZtWpfBMV.png](https://miro.medium.com/max/1283/0*eDxWToTJZtWpfBMV.png)
+
+Tinder recently announced plans to introduce a video chat feature to the platform, and they’ve made it clear that some sort of **artificial intelligence** + **object detection** will be leveraged to prevent harassment and ensure safety during what I’m calling ‘sexy vertical Zoom meetings’.
+
+# **What is object recognition?**
+
+Some definitions:
+
+- **AI (artificial intelligence):** broadly refers to machine (computer) systems that perform tasks that humans can do.
+- **CV (computer vision):** a type of AI that specifically understands the contents of an image or video.
+- **Object detection:** adjacent to CV in that it’s looking for a specific object.
+
+In human terms, the ‘**brain**’ is kind of like the overall concept of AI, your ‘**eyes**’ perform computer vision, and when you’re **looking for something specific** (your keys, a snack, true love) you’re doing an object detection task.
+
+![https://miro.medium.com/max/2000/1*rvsH0gGNBlsXOcHn6dkM5Q.png](https://miro.medium.com/max/2000/1*rvsH0gGNBlsXOcHn6dkM5Q.png)
+
+# **Most CV programs use CNNs (convolutional neural networks):**
+
+Each ‘layer’ of a CNN looks at parts of an image for certain **features** (via the pixel values) — starting with simple ones like edges and gradually getting more complex.
+
+Those features are **mapped** to give a probabilistic location of where each one is. The highest probabilities from each section are **pooled** into a smaller image, where negative pixel values are turned into 0.
+
+Then the **process repeats**. Eventually, all these **connected layers** can be compiled such that they match a certain label/outcome. Based on the probability of these outcomes, the CNN gives its best guess of what’s in the image.
+
+![https://miro.medium.com/max/1569/0*K7tDNaVGUY_xCZ2E.jpeg](https://miro.medium.com/max/1569/0*K7tDNaVGUY_xCZ2E.jpeg)
+
+[Source](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+
+It’s pretty ingenious, but also time-consuming. If Chaddington Woodsworth starts getting too… *comfy* on Tinder video chat, 20 seconds for processing can feel like a lifetime.
+
+Luckily, some CNNs can operate in **real-time**. *YOLO* is an object detection algorithm that shows promise when it comes to autonomous vehicles, where real-time detection is a life-or-death matter.
+
+# **The only time saying YOLO is acceptable in 2020**
+
+YOLO breaks the image up into a **grid**, where each grid square is responsible for predicting the size, class, and location of an object that is within its bounds.
+
+It also gives a **confidence score** — how sure is it that this an object? Then, it tries to figure the **class** of the object (under the condition that it actually *is* an object). This returns a **conditional probability**: P(Car | Object), for example.
+
+These confidence scores are associated with **bounding boxes** around the object in question, ultimately resulting in a lot of bounding boxes of varying weights. The algorithm then looks for **boxes with lots of** **overlap** — this signifies a high probability there’s an object there.
+
+![https://miro.medium.com/max/750/0*7Tdqyf1cY1I-_pjo.jpg](https://miro.medium.com/max/750/0*7Tdqyf1cY1I-_pjo.jpg)
+
+[Source](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/) | Heavier bounding box lines correspond with greater confidence scores.
+
+Those high-overlap predictions are output, and they’re kept if they meet a certain **threshold probability score**. YOLO can do this for every frame/second during a video making this the perfect tool if Tinder wants to monitor video chats for safety.
+
+# **What this means for Tinder moving forward**
+
+Tinder has stated that when it comes to the balance between safety and privacy, they learn towards **safety**. Using YOLO real-time object detection for their upcoming video chat feature could make many people **feel safer** using it + deter any creeps.
+
+The next wave of Tinder users is Gen Z — our whole *lives* are on the Internet, so I think we’ll be fine with Tinder watching our video chats.
+
+How this feature might work is a different question. If Tinder sees an unwelcome/inappropriate object, would they end the call, report the user, or give you a warning?
+
+Technically, it’s a whole other story. Classification of what counts as inappropriate changes from user to user, *and* throughout a relationship. Even if algorithms are customized to each user, this is going to be a **computationally challenging** problem.
+
+Luckily I’m 18
+3 miles away
+And I love solving problems and long walks on the beach.
