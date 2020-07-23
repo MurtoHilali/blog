@@ -23,7 +23,7 @@ LIDAR systems are usually (not always) mounted on top of self-driving cars/other
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/1200/0*1J25uld-MQjQmL1E)
-*[Forbes](https://www.forbes.com/sites/alanohnsman/2019/04/23/teslas-elon-musk-trashes-lidar-for-self-driving-cars-but-waymo-is-rolling-out-a-new-one/#3a6ccfae5a9d)
+*[Forbes](https://www.forbes.com/sites/alanohnsman/2019/04/23/teslas-elon-musk-trashes-lidar-for-self-driving-cars-but-waymo-is-rolling-out-a-new-one/#3a6ccfae5a9d)*
 {:refdef}
 
 Besides being a very fashionable top hat for you car, LIDAR systems are core to helping an AV “see”.
@@ -32,7 +32,6 @@ A LIDAR system is like a group of TIE fighters strapped to your car roof — the
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/625/0*kY_TpcKtRNEs5DSK.gif)
-*“Pew pew pew”
 {:refdef}
 
 Thousands of laser pulses are sent out every second. *Every SECOND.* When they hit an object and bounce back to the LIDAR, the reflection points are recorded to build a 3D point cloud. This can be done because we know how fast light is and how far it travels.
@@ -51,7 +50,7 @@ As you can see, LIDAR is pretty great at telling the car how far away things are
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/7500/0*JqvUbKFxbsYZbNM9)
-*Photo by [M. B. M.](https://unsplash.com/@m_b_m?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+*Photo by [M. B. M.](https://unsplash.com/@m_b_m?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)*
 {:refdef}
 
 Special-purpose acquisition companies. Are these a newfangled contraption Wall Street is using to bamboozle you? Maybe…
@@ -66,7 +65,7 @@ It’s like being a really rich kid in school with no real plans for studying, j
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/6049/0*L95TiolBst5WW74q)
-*Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+*Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)*
 {:refdef}
 
 SPACs raise money (aka capital) to help finance these acquisition/mergers. They do this by **offering an IPO**, or going public. This is when shares in a privately held corporation are now available for purchase by public investors (you and me!)
@@ -99,7 +98,7 @@ On the business side, startup founders all want to eventually “exit”, which 
 2. …or doing an IPO. That means you can sell your shares and buy a lambo, if you’d like.
 
 {:refdef: style="text-align: center;"}
-![](https://tenor.com/view/lamborghini-colorful-gif-12423337)
+![](https://media.tenor.com/images/1a98db1f502a613117f8d68a593488cc/tenor.gif)
 {:refdef}
 
 SPACs have become an **increasingly popular path for startups** to do the latter.
