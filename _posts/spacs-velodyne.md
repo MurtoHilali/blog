@@ -23,7 +23,7 @@ LIDAR systems are usually (not always) mounted on top of self-driving cars/other
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/1200/0*1J25uld-MQjQmL1E)
-*[Forbes](https://www.forbes.com/sites/alanohnsman/2019/04/23/teslas-elon-musk-trashes-lidar-for-self-driving-cars-but-waymo-is-rolling-out-a-new-one/#3a6ccfae5a9d)
+[Forbes](https://www.forbes.com/sites/alanohnsman/2019/04/23/teslas-elon-musk-trashes-lidar-for-self-driving-cars-but-waymo-is-rolling-out-a-new-one/#3a6ccfae5a9d)
 {:refdef}
 
 Besides being a very fashionable top hat for you car, LIDAR systems are core to helping an AV “see”.
@@ -32,7 +32,7 @@ A LIDAR system is like a group of TIE fighters strapped to your car roof — the
 
 {:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/625/0*kY_TpcKtRNEs5DSK.gif)
-*“Pew pew pew”
+“Pew pew pew”
 {:refdef}
 
 Thousands of laser pulses are sent out every second. *Every SECOND.* When they hit an object and bounce back to the LIDAR, the reflection points are recorded to build a 3D point cloud. This can be done because we know how fast light is and how far it travels.
@@ -50,7 +50,7 @@ As you can see, LIDAR is pretty great at telling the car how far away things are
 ### SPACs
 
 ![](https://miro.medium.com/max/7500/0*JqvUbKFxbsYZbNM9)
-*Photo by [M. B. M.](https://unsplash.com/@m_b_m?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+Photo by [M. B. M.](https://unsplash.com/@m_b_m?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
 Special-purpose acquisition companies. Are these a newfangled contraption Wall Street is using to bamboozle you? Maybe…
 
@@ -79,7 +79,9 @@ For one, researchers are predicting that the advancement of autonomous vehicles 
 
 Okay, maybe that’s not entirely true.
 
+{:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/490/0*H80agQzrSNQoGBQp.gif)
+{:refdef}
 
 But the self-driving car market is valued at nearly [$25 billion](https://www.globenewswire.com/news-release/2020/03/18/2002529/0/en/Global-Autonomous-Driverless-Car-Market-Projections-2020-2025-World-Market-Anticipating-a-CAGR-of-18.html#:~:text=The%20global%20autonomous%2Fdriverless%20car,order%20to%20sense%20their%20environment.), and **set to grow at around 18% until 2025**. They have massive potential to reduce car accidents and deaths, maybe even help fight climate change.
 
@@ -92,7 +94,9 @@ On the business side, startup founders all want to eventually “exit”, which 
 1. Selling your company to a bigger one to liquidate your equity (i.e. turn it into cash)…
 2. …or doing an IPO. That means you can sell your shares and buy a lambo, if you’d like.
 
+{:refdef: style="text-align: center;"}
 ![](https://tenor.com/view/lamborghini-colorful-gif-12423337)
+{:refdef}
 
 SPACs have become an **increasingly popular path for startups** to do the latter.
 
@@ -102,7 +106,9 @@ SPAC negotiations are simpler, and they provide some certainty for capital, whic
 
 Expect to see more companies (especially automobile startups) leaning towards this path vs. a traditional IPO. I, for one, am still looking for investment into my Lionel Richie cover band.
 
+{:refdef: style="text-align: center;"}
 ![](https://miro.medium.com/max/1250/0*X0FHLTtW8JhdIxwK.png)
+{:refdef}
 
 ```
 Helping you digest concepts in business + tech news.
