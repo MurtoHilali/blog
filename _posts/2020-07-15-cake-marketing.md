@@ -1,10 +1,18 @@
-# Cake Can Teach Us About Marketing and Psychology
-
-![https://miro.medium.com/max/1875/1*gpH1VdER4x0cysXirVavlw.jpeg](https://miro.medium.com/max/1875/1*gpH1VdER4x0cysXirVavlw.jpeg)
+---
+layout: post
+title:  "Cake Can Teach Us About Marketing and Psychology"
+author: Murto
+categories: [ Marketing, Psychology, Behavioural Economics ]
+tags: [ ]
+comments: false
+image: "https://miro.medium.com/max/1875/1*gpH1VdER4x0cysXirVavlw.jpeg"
+---
 
 Have you seen this meme going around?
 
-[https://twitter.com/tasty/status/1280966608933003264](https://twitter.com/tasty/status/1280966608933003264)
+{:refdef: style="text-align: center;"}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Are All Cakes <a href="https://t.co/ejArkJHaid">pic.twitter.com/ejArkJHaid</a></p>&mdash; Tasty (@tasty) <a href="https://twitter.com/tasty/status/1280966608933003264?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:refdef}
 
 Cake. *Everything is cake.* Is your worldview broken? Good. Go kiss your wife through the tears. Oh wait, you can’t — SHE’S CAKE TOO.
 
@@ -26,7 +34,7 @@ The fix? They took milk and eggs out of the powder mix. Now you had to crack the
 
 Now it was *your* cake.
 
-# **How to Create Ownership**
+### **How to Create Ownership**
 
 This story illustrates what behavioral economists call **the endowment effect**. (AKA **the IKEA effect**!)
 
@@ -34,11 +42,12 @@ When we can extend some form of ownership over something, we value it much more.
 
 Ownership can be created in a few ways — one is *mere exposure.*
 
-# **Exposure ☕**
+#### **Exposure ☕**
 
-[https://miro.medium.com/max/6876/0*nkbkeonyknIfc46S](https://miro.medium.com/max/6876/0*nkbkeonyknIfc46S)
-
-Photo by [Rebecca Lane](https://unsplash.com/@rebeccajeanettelane?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+{:refdef: style="text-align: center;"}
+![](https://miro.medium.com/max/6876/0*nkbkeonyknIfc46S)
+*Photo by [Rebecca Lane](https://unsplash.com/@rebeccajeanettelane?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)*
+{:refdef}
 
 **In a study called “[The Power of Touch](https://www.researchgate.net/publication/5140687_The_power_of_touch_An_examination_of_the_effect_of_duration_of_physical_contact_on_the_valuation_of_objects)”** (also the name of the next EL James novel) researchers found that the longer a participant held on to a coffee mug, the higher they were willing to bid on it in an online auction.
 
@@ -48,11 +57,12 @@ This is the reason car dealerships will let you drive a car around for a day bef
 
 Free trials are a great way for people to feel like they own something before they even buy it. Spotify and Netflix are interesting examples because they build ownership via an extra secret weapon — *customization.*
 
-# **Customization 🎬**
+#### **Customization 🎬**
 
-[https://miro.medium.com/max/5725/0*Mnkc6DN0Xeatwobr](https://miro.medium.com/max/5725/0*Mnkc6DN0Xeatwobr)
-
-Photo by [Mollie Sivaram](https://unsplash.com/@molliesivaram?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+{:refdef: style="text-align: center;"}
+![](https://miro.medium.com/max/5725/0*Mnkc6DN0Xeatwobr)
+*Photo by [Mollie Sivaram](https://unsplash.com/@molliesivaram?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)*
+{:refdef}
 
 **You’ve probably heard about** how great Netflix’s recommendation engine is. Your Netflix home page probably looks very different from the profile your wife (who is still made of cake) has.
 
@@ -64,11 +74,11 @@ Spotify’s Discover Weekly + its other personalized playlists do the same thing
 
 But sometimes, the *seller* doesn’t have to bother with customizing. If the buyer does it, it builds ownership through *effort.*
 
-# **Effort 🛠**
-
-[https://miro.medium.com/max/6730/0*vaDDNoEWmqOUUCwo](https://miro.medium.com/max/6730/0*vaDDNoEWmqOUUCwo)
-
-Photo by [Semen Borisov](https://unsplash.com/@devsnice?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+#### **Effort 🛠**
+{:refdef: style="text-align: center;"}
+![](https://miro.medium.com/max/6730/0*vaDDNoEWmqOUUCwo)
+*Photo by [Semen Borisov](https://unsplash.com/@devsnice?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)*
+{:refdef}
 
 **We return once again to the IKEA effect.** Have you ever built a piece of IKEA furniture? Have you read the adorable Swedish hieroglyphics? Have you wondered why there are so many GODDAMN SCREWS?
 
@@ -80,13 +90,13 @@ Simply adding milk and eggs doesn’t seem like a lot of effort — but it’s e
 
 And that’s something you can charge for.
 
-# **Using the Endowment Effect to Sell**
+### **Using the Endowment Effect to Sell**
 
 1. **Exposure:** Best applied in physical retail. Provide opportunities for the customer to hold the product or take it for a test drive.
 2. **Customization:** Great for digital products or online stores. Build a recommendation algorithm or a virtual customization platform.
 3. **Effort:** Apply this idea to physical goods— edible products, toys, décor. Not to services; those should be as effortless as possible.
 
-# **On a final note…**
+#### **On a final note…**
 
 We can extend this thinking to our work lives, employers and employees alike.
 
@@ -97,3 +107,5 @@ Give your team the runway to try independent projects and give them credit for t
 Unless, of course, they’re cake. Unless, of course…
 
 *You* are cake?
+
+***
