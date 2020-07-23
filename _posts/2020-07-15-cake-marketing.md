@@ -11,10 +11,12 @@ image: "https://miro.medium.com/max/1875/1*gpH1VdER4x0cysXirVavlw.jpeg"
 Have you seen this meme going around?
 
 {:refdef: style="text-align: center;"}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Are All Cakes <a href="https://t.co/ejArkJHaid">pic.twitter.com/ejArkJHaid</a></p>&mdash; Tasty (@tasty) <a href="https://twitter.com/tasty/status/1280966608933003264?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Are All Cakes <a href="https://t.co/ejArkJHaid">pic.twitter.com/ejArkJHaid</a></p>&mdash; Tasty (@tasty) <a href="https://twitter.com/tasty/status/1280966608933003264?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:refdef}
 
+{:refdef: style="text-align: left;"}
 Cake. *Everything is cake.* Is your worldview broken? Good. Go kiss your wife through the tears. Oh wait, you can’t — SHE’S CAKE TOO.
+{:refdef}
 
 **Housewives from the American 40’s** were not made of cake. In fact, this was the era when instant cake mixes were just being introduced to the public.
 
